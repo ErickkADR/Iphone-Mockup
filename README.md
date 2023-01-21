@@ -35,7 +35,7 @@ It was a super challenging project, as I managed to use some design techniques a
 <br />
 <br />
 
-### website link: https://erickkadr.github.io/Projeto-Redes-Sociais/
+### website link: https://erickkadr.github.io/Iphone-Mockup/
 
 ### Made with ♥ by Erickk |  [Contact](https://www.linkedin.com/in/erickkadr//)
 
