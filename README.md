@@ -8,20 +8,6 @@ Mockup interativo de iPhone, feito em **HTML e CSS**, onde a "tela" do celular �
   <img width="100%" src="https://user-images.githubusercontent.com/99443921/213888375-a3d9a5fb-9306-41ee-9789-1f74e7e543ca.gif"/>
 </div>
 
-<div align="center">
-<br>
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
-## Print
-
-<div align="center">
-  <img src="docs/screenshot.png" alt="Mockup de iPhone com tela inicial e ícones de redes sociais" width="600" />
-</div>
-
 ## Sobre o projeto
 
 Um mockup de iPhone 100% em CSS (bordas, notch, botões), com uma "tela inicial" falsa cheia de ícones de app, e uma barra lateral com atalhos (Home, YouTube, GitHub, Instagram, Twitter, Facebook). Cada atalho troca o conteúdo do `<iframe>` interno — o mockup nunca recarrega, só o "app" de dentro muda.
